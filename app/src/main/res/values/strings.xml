@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GitHubRepoSearch</string>
+    <string name="enter_search_query">Please, enter search query!</string>
+    <string name="button_search">Search</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="hint_search">Search GitHub repos</string>
+    <string name="message_no_repos">Couldn’t find any repositories</string>
+    <string name="message_loading_error">Loading error</string>
+</resources>
